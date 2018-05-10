@@ -1,0 +1,8 @@
+.res{
+	border:2px solid lightblue;
+	padding: 15px;
+}
+.res:before{
+	content: "result";
+	font-weight: bold;
+}
